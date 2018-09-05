@@ -1,4 +1,4 @@
-![alt text](https://preview.ibb.co/hAMfkK/Screenshot_from_2018_09_05_13_39_43.png)
+![alt text](https://preview.ibb.co/hAMfkK/Screenshot_from_2018_09_05_13_39_43.png=1000x500)
 
 # Date Project
 This project use to show date and time.<br>
